@@ -1,0 +1,13 @@
+C:\Users\andrea.michielan\Desktop\XmlEditor\XmlEditor\bin\Release\XmlEditor.exe.manifest
+C:\Users\andrea.michielan\Desktop\XmlEditor\XmlEditor\bin\Release\XmlEditor.application
+C:\Users\andrea.michielan\Desktop\XmlEditor\XmlEditor\bin\Release\XmlEditor.exe
+C:\Users\andrea.michielan\Desktop\XmlEditor\XmlEditor\bin\Release\XmlEditor.pdb
+C:\Users\andrea.michielan\Desktop\XmlEditor\XmlEditor\obj\x86\Release\XmlEditor.Form1.resources
+C:\Users\andrea.michielan\Desktop\XmlEditor\XmlEditor\obj\x86\Release\XmlEditor.Properties.Resources.resources
+C:\Users\andrea.michielan\Desktop\XmlEditor\XmlEditor\obj\x86\Release\XmlEditor.csproj.GenerateResource.Cache
+C:\Users\andrea.michielan\Desktop\XmlEditor\XmlEditor\obj\x86\Release\XmlEditor.exe.manifest
+C:\Users\andrea.michielan\Desktop\XmlEditor\XmlEditor\obj\x86\Release\XmlEditor.application
+C:\Users\andrea.michielan\Desktop\XmlEditor\XmlEditor\obj\x86\Release\XmlEditor.exe
+C:\Users\andrea.michielan\Desktop\XmlEditor\XmlEditor\obj\x86\Release\XmlEditor.pdb
+C:\Users\andrea.michielan\Desktop\XmlEditor\XmlEditor\obj\x86\Release\XmlEditor.Form2.resources
+C:\Users\andrea.michielan\Desktop\XmlEditor\XmlEditor\obj\x86\Release\XmlEditor.Resource1.resources

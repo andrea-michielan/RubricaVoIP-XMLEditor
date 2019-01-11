@@ -1,0 +1,11 @@
+C:\Users\andrea.michielan\Desktop\XmlEditor\XmlEditor\bin\Debug\Editor Rubrica.exe.config
+C:\Users\andrea.michielan\Desktop\XmlEditor\XmlEditor\bin\Debug\Editor Rubrica.exe.manifest
+C:\Users\andrea.michielan\Desktop\XmlEditor\XmlEditor\bin\Debug\Editor Rubrica.application
+C:\Users\andrea.michielan\Desktop\XmlEditor\XmlEditor\bin\Debug\Editor Rubrica.exe
+C:\Users\andrea.michielan\Desktop\XmlEditor\XmlEditor\bin\Debug\Editor Rubrica.pdb
+C:\Users\andrea.michielan\Desktop\XmlEditor\XmlEditor\obj\x86\Debug\XmlEditor.Form1.resources
+C:\Users\andrea.michielan\Desktop\XmlEditor\XmlEditor\obj\x86\Debug\XmlEditor.csproj.GenerateResource.Cache
+C:\Users\andrea.michielan\Desktop\XmlEditor\XmlEditor\obj\x86\Debug\Editor Rubrica.exe.manifest
+C:\Users\andrea.michielan\Desktop\XmlEditor\XmlEditor\obj\x86\Debug\Editor Rubrica.application
+C:\Users\andrea.michielan\Desktop\XmlEditor\XmlEditor\obj\x86\Debug\Editor Rubrica.exe
+C:\Users\andrea.michielan\Desktop\XmlEditor\XmlEditor\obj\x86\Debug\Editor Rubrica.pdb
